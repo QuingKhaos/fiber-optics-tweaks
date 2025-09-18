@@ -1,3 +1,5 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: ????
+  Changes:
+    - [item=hps__fo-optical-connector] Move to circuit-connection subgroup if SchallCircuitGroup is installed.
