@@ -1,12 +1,13 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "fiber-optics-tweaks",
+  "title": "Fiber Optics Tweaks",
+  "description": "Opinionated tweaks to Fiber Optics.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.0",
+    "fiber-optics >= 1.0.0"
   ]
 }
